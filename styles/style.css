@@ -60,7 +60,7 @@ text-align: center;
 }
 .s1{
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
     justify-content: center;
     height: 100%;
     width: 100%;
@@ -99,6 +99,9 @@ text-align: center;
 }
 .j{
     text-align: center;
+}
+.vid{
+    border-radius: 16px;
 }
 /* section-2 style end */
 /* section-3 style start */
